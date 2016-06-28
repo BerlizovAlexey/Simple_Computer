@@ -15,6 +15,7 @@
 #include "myTerm.h"
 #include "alu_cu.h"
 
+#test
 
 int alu(int command, int operand)
 {	
