@@ -1,5 +1,5 @@
 
-rundefault: prog
+run: prog
 	./prog
 
 prog:
